@@ -1,4 +1,4 @@
-package com.datastructure;
+package com.datastructure.arrays;
 
 public class SingleDimensionArray {
     int arr[] = null;

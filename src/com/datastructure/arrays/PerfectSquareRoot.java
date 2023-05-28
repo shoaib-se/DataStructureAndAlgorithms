@@ -1,8 +1,8 @@
-package com.datastructure;
+package com.datastructure.arrays;
 
 import java.util.Scanner;
 
-public class ArrayProject {
+public class PerfectSquareRoot {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
